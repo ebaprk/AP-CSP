@@ -37,3 +37,7 @@ In Xcode, select the **AP CSP** app scheme and a compatible simulator or connect
 ## Try the game
 
 Choose an answer, advance using the feedback alert, and use Reset after the end alert. All game data and artwork are bundled; no account, API key, or backend is needed.
+
+## License
+
+Original software and documentation are licensed under the [Apache License 2.0](LICENSE). See [NOTICE](NOTICE) for copyright, attribution, and the scope of this grant. Third-party materials retain their own terms.
